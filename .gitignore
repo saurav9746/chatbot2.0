@@ -1,2 +1,8 @@
 .env
 config/settings_local.py
+.env
+.env.local
+config/settings_local.py
+db.sqlite3
+__pycache__/
+*.pyc
